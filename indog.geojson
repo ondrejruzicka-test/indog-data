@@ -30,13 +30,13 @@
     {
       "type": "Feature",
       "properties": {
-        "nazev": "Moritz"
+        "nazev": "Drápal"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.24976897239685,
-          49.59062134270282
+          17.249736785888672,
+          49.59165065844482
         ]
       }
     }
