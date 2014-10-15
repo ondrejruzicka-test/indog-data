@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nazev": "KGI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.265379428863522,
+          49.59382745059988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazev": "NH Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.246582508087158,
+          49.60128205373476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazev": "Moritz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.24976897239685,
+          49.59062134270282
+        ]
+      }
+    }
+  ]
+}
