@@ -55,6 +55,22 @@
           49.59334063650692
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nazev": "Bistrá Kráva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.255358695983887,
+          49.59521832123456
+        ]
+      }
     }
   ]
 }
