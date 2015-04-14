@@ -39,6 +39,22 @@
           49.59165065844482
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nazev": "U Kuděje"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.243642807006836,
+          49.59334063650692
+        ]
+      }
     }
   ]
 }
